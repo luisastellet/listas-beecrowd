@@ -1,1 +1,1 @@
-# lab-de-resolucao-de-problemas
+# listas-beecrowd
